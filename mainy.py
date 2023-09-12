@@ -1,7 +1,5 @@
 from flask import Flask, request, render_template, send_file
 
-import tabula
-import os
 
 app = Flask(__name__)
 
